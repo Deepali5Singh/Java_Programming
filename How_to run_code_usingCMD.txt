@@ -1,0 +1,2 @@
+1. Write javac fileName.java
+2.write java ClassName
