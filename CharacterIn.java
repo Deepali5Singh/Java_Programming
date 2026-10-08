@@ -1,6 +1,6 @@
 public class CharacterIn  {
     char name = '@';
-    char sym = 65;
+    char sym = 65;//using ASCII
     void display () {
         System.out.println(name);
         System.out.println(sym);

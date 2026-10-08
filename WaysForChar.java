@@ -2,7 +2,7 @@ public class WaysForChar {
     char value = 65;
     char value2 = 'A';
     char value3 = '\u0023';
-    char minValue = Character.MINVALUE;
+    char minValue = Character.MIN_VALUE;
     char a = (char)(minValue-1);
     public void display () {
         System.out.println(value);
