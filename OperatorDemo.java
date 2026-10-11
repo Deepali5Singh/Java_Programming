@@ -13,6 +13,7 @@ public class OperatorDemo{
            System.out.println(div);
             System.out.println(rem);
     }
+
     public static void main () {
         OperatorDemo Obj = new OperatorDemo();
         Obj.airth();

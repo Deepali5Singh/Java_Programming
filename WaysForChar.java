@@ -3,7 +3,7 @@ public class WaysForChar {
     char value2 = 'A';
     char value3 = '\u0023';
     char minValue = Character.MIN_VALUE;
-    char a = (char)(minValue-1);
+    char a = (char)(minValue-1); //tycating the values 
     public void display () {
         System.out.println(value);
         System.out.println(value2);
