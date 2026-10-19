@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Power_2{
+public class Power_2
+{
     int num;
     void Power () {
         Scanner sc = new Scanner(System.in);
@@ -11,7 +12,7 @@ public class Power_2{
         }
     }
     public static void main (String[] args) {
-Power_2 obj = new Power_2();
-obj.Power();
+    Power_2 obj = new Power_2();
+   obj.Power();
     }
 }
