@@ -1,6 +1,6 @@
 public class MethoOverloading2{
     int a ;
-    int b ;
+    int b ;// the ambitious method 
     double c ;
     double d;
     void sum (int a, double c ){
