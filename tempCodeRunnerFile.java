@@ -1,3 +1,1 @@
-public static void main (String[] args){
-    PolymorphismJ mem = new PolymorphismJ();
-    mem.info(24, "Tanya");
+    void sum (int b, double d){

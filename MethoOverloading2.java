@@ -11,6 +11,6 @@ public class MethoOverloading2{
     }
     public static void main(String[] args){
         MethoOverloading2 obj = new MethoOverloading2();
-        obj.sum(4,1);
+        obj.sum(4, 1);
     }
 }
