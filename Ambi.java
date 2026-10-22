@@ -9,6 +9,6 @@ public class Ambi{
     }
     public static void main (String[] args) {
      Ambi obj = new Ambi();
-     obj.display(null);
+     obj.display(name:null);
     }
 }
