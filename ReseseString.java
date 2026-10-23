@@ -1,7 +1,7 @@
 public class ReseseString {
   String name ="Nisha";
 String result ="";
-void Revese ( ){
+void Revese (){
     for (int i = 4; i<=0; i--){
         result = result + name ;
     }

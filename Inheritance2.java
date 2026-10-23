@@ -15,7 +15,7 @@ class info extends Student { // subclass
     int Class = 5; 
     void infor(){
          System.out.println(age);
-         System.out.println(Ctodaylass);
+         System.out.println(Class);
     }
 }
 
