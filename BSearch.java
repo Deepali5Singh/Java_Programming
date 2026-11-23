@@ -7,8 +7,12 @@ public class BSearch {
        int flag = 0;
        for(int i = 0; i<5; i++ ){
 if(arr[i] == target){
-    System.out.println("Target found at : " + i + " index");
+    System.out.println("Target found at : 23" + i + " index");
+    flag = 1;
 }
+       }
+       if(flag ==0){
+        System.out.println("Target not found");
        }
     }
 }
